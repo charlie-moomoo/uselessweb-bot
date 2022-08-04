@@ -1,5 +1,10 @@
 # uselessweb-bot
 Bots for some games in https://theuselessweb.com/
 ## How to use
-Copy site link that you're on, then Ctrl/Command+F things before `.`!<br>
-Example: You're on https://longdogechallenge.com/ , then Ctrl/Command+F `longdogechallenge`
+1. Find the script
+2. Copy it
+3. Open DevTools on site (Windows:`F12`, macOS:``)
+4. Click `Console`
+5. Paste the code
+6. Done! The bot should be running now!
+Or... Wait we make an all-in-one version?
