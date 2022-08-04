@@ -7,4 +7,4 @@ Bots for some games in https://theuselessweb.com/
 4. Click `Console`
 5. Paste the code
 6. Done! The bot should be running now!
-Or... Wait we make an all-in-one version?
+<br>Or... Wait we make an all-in-one version?
