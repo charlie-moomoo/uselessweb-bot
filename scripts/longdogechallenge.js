@@ -1,1 +1,1 @@
-document.querySelectorAll('input').forEach((element)=>{element.click()})
+setInterval(()=>{window.scrollBy(0, 100)},1)
